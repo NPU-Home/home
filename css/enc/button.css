@@ -1,0 +1,16 @@
+#mkdocs-decrypt-button {
+    width: 10%;
+    padding: 0rem;
+    height: 2rem;
+    background-color: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    border: none;
+    border-radius: 8px;
+    transition: font-weight .25s;
+    box-shadow: 2px 3px 10px 2px var(--md-pic-shadow-color);
+    transition: background-color .25s;
+}
+#mkdocs-decrypt-button:hover, #mkdocs-decrypt-button:focus{
+    background-color: var(--md-pic-shadow-color);
+    font-weight: 900;
+}
