@@ -1,7 +1,6 @@
 ---
 hide:
     - navigation
-    # - toc
 ---
 # 项目组介绍
 
