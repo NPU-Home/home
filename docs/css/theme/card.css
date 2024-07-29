@@ -1,0 +1,7 @@
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card{
+    background-color: var(--md-primary-fg-color);
+    border-radius: 8px;
+    border: 2px solid var(--md-pic-shadow-color);
+}
+.md-typeset:hover .grid.cards>ol>li:hover, .md-typeset:hover .grid.cards>ul>li:hover, .md-typeset .grid>.card:hover{
+}
