@@ -1,5 +1,9 @@
 .md-typeset .admonition,
 .md-typeset details {
-  border-width: 0;
-  border-left-width: 4px;
+  /* border-width: 0;
+  border-left-width: 4px; */
+  background-color: var(--md-code-bg-color);
+  border: 2px solid;
+  border-radius: 8px;
+  font-size: smaller;
 }

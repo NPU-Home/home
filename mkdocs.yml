@@ -1,4 +1,4 @@
-site_name: 西北工业大学舞蹈机器人基地简介
+site_name: 西北工业大学舞蹈机器人基地
 site_url: https://NPU-Home.github.io/home # 网站地址
 
 repo_name: NPU-Home/home # 仓库名称
@@ -65,6 +65,7 @@ extra_javascript:
     - js/zoom.js
 
 plugins:
+    - heti
     - search: {}
 
     - git-revision-date-localized:

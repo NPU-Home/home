@@ -8,7 +8,11 @@ comment: True
 
 # 西北工业大学舞蹈机器人基地
 
-本文档旨在帮助新人快速了解基地各个项目。
+!!! Tip "🎉西北工业大学舞蹈机器人基地2024届招新开始了！"
+
+    详细信息请查看：[启翔湖畔-招新贴](https://pd.qq.com/s/ct6mhyw6m?shareSource=5)
+
+    点击加入QQ群：[舞基 2025 招新总群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9mDzoG_VrSHDSPWlmI35zFd13_Ye3W0M&authKey=m6zCBR1P%2Bne%2BGF7HOsPdy%2FbDcgVk6vhiAl3IYJXDFe2DIkeclC59HUzZUMqBNamt&noverify=0&group_code=970686200)
 
 ## 文章列表
 
