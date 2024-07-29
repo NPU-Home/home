@@ -1,0 +1,26 @@
+.md-typeset .md-button:focus,
+.md-typeset .md-button:hover {
+    background-color: var(--md-pic-shadow-color);
+    font-weight: 900;
+    border: none;
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset .md-button {
+    margin-top: .5rem;
+    background-color: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    border: none;
+    border-radius: 8px;
+    transition: font-weight .25s, background-color .25s;
+    box-shadow: 2px 3px 10px 2px var(--md-pic-shadow-color);
+    text-align: center;
+}
+
+#right {
+    float: right;
+}
+
+#width {
+    width: 100%;
+}

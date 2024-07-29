@@ -49,6 +49,7 @@ extra_css:
     - css/theme/top.css
     - css/theme/link.css
     - css/theme/card.css
+    - css/theme/button.css
 
     - css/img-zoom/zoom.css
 

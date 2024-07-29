@@ -4,4 +4,5 @@
     border: 2px solid var(--md-pic-shadow-color);
 }
 .md-typeset:hover .grid.cards>ol>li:hover, .md-typeset:hover .grid.cards>ul>li:hover, .md-typeset .grid>.card:hover{
+    border: 2px solid var(--md-primary-fg-color);
 }
