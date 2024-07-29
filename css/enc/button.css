@@ -6,9 +6,8 @@
     color: var(--md-default-fg-color);
     border: none;
     border-radius: 8px;
-    transition: font-weight .25s;
+    transition: font-weight .25s,background-color .25s;
     box-shadow: 2px 3px 10px 2px var(--md-pic-shadow-color);
-    transition: background-color .25s;
 }
 #mkdocs-decrypt-button:hover, #mkdocs-decrypt-button:focus{
     background-color: var(--md-pic-shadow-color);
