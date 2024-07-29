@@ -4,6 +4,8 @@
     font-weight: 900;
     border: none;
     color: var(--md-default-fg-color);
+    background: none;
+    box-shadow: inset 0px 0px 20px 1px var(--md-pic-shadow-color);
 }
 
 .md-typeset .md-button {
@@ -13,8 +15,8 @@
     border: none;
     border-radius: 8px;
     transition: font-weight .25s, background-color .25s;
-    box-shadow: 2px 3px 10px 2px var(--md-pic-shadow-color);
     text-align: center;
+    box-shadow: 2px 3px 10px 2px var(--md-pic-shadow-color);
 }
 
 #right {
