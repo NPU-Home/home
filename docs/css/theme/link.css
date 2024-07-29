@@ -8,3 +8,6 @@
     background-position: left bottom;
     background-size: 100% 2px;
 }
+#no-underline{
+    background: none;
+}
