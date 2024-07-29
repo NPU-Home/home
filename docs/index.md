@@ -1,7 +1,7 @@
 ---
 hide:
     - navigation
-    - statistics
+    - footer
 title: 首页
 comment: True
 ---

@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+    # - toc
+---
 # 项目组介绍
 
 <div class="grid cards" markdown>
