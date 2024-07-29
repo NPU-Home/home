@@ -12,8 +12,8 @@ comment: True
 
 维护第一年中......(〜￣ ▽ ￣)〜
 
-## 贡献
+<!-- ## 贡献
 
 文档目前由舞蹈机器人基地成员维护
 
-您可以在这里看到完整的贡献者列表：team-introduction/contributors
+您可以在这里看到完整的贡献者列表：team-introduction/contributors -->
