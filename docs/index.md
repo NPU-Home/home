@@ -34,24 +34,38 @@ tags:
 
     介绍了基地各个技术组的基本要求和学习方向。包括软件组、电子组、机械组。
 
-    [软件组介绍](page/方向/软件.md){#width .md-button}
-    [电子组介绍](page/方向/电子.md){#width .md-button}
-    [机械组介绍](page/方向/机械.md){#width .md-button}
+    [查看介绍 :octicons-chevron-right-12:](page/方向/index.md){#right .md-button}
 
 -   ### 学习思路分享
 
     介绍了基地软件组的学习思路，包括一门编程语言、Markdown、Git、面向对象的思想、良好的代码规范等。
 
-    [查看学习思路 :octicons-chevron-right-12:](page/学习思路/软件组学习思路.md){#right .md-button}
+    [查看分享 :octicons-chevron-right-12:](page/学习思路/软件组学习思路.md){#right .md-button}
 
 -   ### 机器人档案
 
-    收入了基地几个方向的机器人和比赛时的照片及视频。
+    展示了基地的机器人在比赛中的表现，包括舞蹈机器人、救援机器人、家政机器人、篮球机器人。
+
     [查看图片 :octicons-chevron-right-12:](page/比赛/index.md){#right .md-button}
 
 </div>
 
-## 基地成员博客
+## 项目展示
+
+<div class="grid cards" markdown>
+
+- ![pic](https://avatars.githubusercontent.com/u/171696651?s=400&u=088180d0e084b76aed5b496ac552db1edec7a5f3&v=4){#ico .no-zoom} <name>
+Home Team of NPU Dance Robot Base</name>
+
+    ---
+
+    西北工业大学舞蹈机器人基地家政组代码仓库。
+
+    [查看项目 :octicons-chevron-right-12:](https://github.com/NPU-Home){#right .md-button}
+
+</div>
+
+## 成员博客
 
 <div class="grid cards" markdown>
 
@@ -64,7 +78,6 @@ tags:
 - ![GaoZQi](https://avatars.githubusercontent.com/u/62362150?v=4){#ico .no-zoom} <name>GaoZQi</name>
 
     [GaoZQi' Note](https://gaozqi.github.io/note/){#width .md-button}
-
 
 </div>
 
