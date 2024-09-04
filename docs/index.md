@@ -113,6 +113,21 @@ tags:
 <div class="grid cards" markdown>
 
 - ![Miao Yuyang](https://avatars.githubusercontent.com/u/4677346?v=4){#ico .no-zoom} <name>Miao Yuyang</name>
+    <style>
+    a.egg {
+        color: #3670ee;
+        font-size: 1rem;
+        vertical-align: inherit;
+        margin: 10px 0 0 10px;
+        align: right;
+    }
+    a.egg:hover,a.egg:focus {
+        color: #3670ee;
+        background: none;
+        shadow: var(--md-shadow);
+    }
+    </style>
+    <a class="egg" href="https://www.zhihu.com/question/363786870/answer/956180105" markdown>:simple-zhihu:{ title="你发现了彩蛋" }</a>
 
     [myyerrol的个人网站](https://myyerrol.xyz/){#width .md-button}
 
