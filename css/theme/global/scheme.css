@@ -33,7 +33,7 @@
         --md-default-fg-color: rgba(255, 255, 255, 0.9);
         --md-default-fg-color--light: rgb(255 255 255 / 56%);
         --md-default-fg-color--lighter: rgba(255, 255, 255, 0.8);
-        --md-default-fg-color--lightest: #1c1c1c;
+        --md-default-fg-color--lightest: #0d0d0d;
         /* primary color */
         --md-primary-fg-color: #1d1d1ee0;
         --md-typeset-a-color: #2e2e2ed6;
