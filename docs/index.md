@@ -72,7 +72,7 @@ tags:
 
 <div class="grid cards" markdown>
 
-- ![QRcode](assets/scanner_20240904_225351-1.jpg){width=133px, align=left}
+- ![QRcode](https://img.picui.cn/free/2024/09/05/66d887b91c5e1.jpg){width=133px, align=left}
 
     <name style="color:#54b4ef;font-size: clamp(0.8rem, 0.735rem + 1.03vw, 1.45rem);">:material-qqchat: 西工大舞蹈机器人基地</name>
 
@@ -130,7 +130,7 @@ tags:
 
     [myyerrol的个人网站](https://myyerrol.xyz/){#width .md-button}
 
-- ![climerecho](assets/image-2.png){#ico .no-zoom} <name>climerecho</name>
+- ![climerecho](https://avatars.githubusercontent.com/u/81315777?v=4){#ico .no-zoom} <name>climerecho</name>
 
     [博客园](https://www.cnblogs.com/Roboduster){#width .md-button}
 
