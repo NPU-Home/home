@@ -10,6 +10,16 @@ tags:
     - CSS
 ---
 
+!!! Tip "🎉西北工业大学舞蹈机器人基地2024届招新开始了！"
+
+    舞蹈机器人基地在参加的robocup和中国机器人大赛的部分项目中，是唯一自己完全打造机器人的队伍（从电路板的设计，到3D外壳打造，再到软件代码编写）加入基地享受DIY的乐趣╭（′▽‵）╭（′▽‵）╭（′▽‵）╯。
+
+    详细信息请查看：[启翔湖畔-招新贴](https://pd.qq.com/s/ct6mhyw6m?shareSource=5)
+
+    点击加入QQ群：[舞基 2025 招新总群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9mDzoG_VrSHDSPWlmI35zFd13_Ye3W0M&authKey=m6zCBR1P%2Bne%2BGF7HOsPdy%2FbDcgVk6vhiAl3IYJXDFe2DIkeclC59HUzZUMqBNamt&noverify=0&group_code=970686200)
+
+    [查看招新信息 :octicons-chevron-right-12:](http://127.0.0.1:8000/home/page/%E6%8B%9B%E6%96%B0/){#right .md-button}
+
 # 西北工业大学舞蹈机器人基地
 
 西北工业大学舞蹈机器人创新实践基地成立于2003年，该基地是我校实施素质教育、培养学生创新精神与实践能力的重要基地之一。该基地是以学生科技制作为特色的开放型实验基地，主要面向在校本科学生，针对国内每年定期举办的全国机器人大赛比赛制定项目方案，吸收优秀学生参与方案开发设计、论证可行性、规划、制作后参加比赛。
@@ -60,13 +70,17 @@ tags:
 
 </div>
 
-!!! Tip "🎉西北工业大学舞蹈机器人基地2024届招新开始了！"
+<div class="grid cards" markdown>
 
-    舞蹈机器人基地在参加的robocup和中国机器人大赛的部分项目中，是唯一自己完全打造机器人的队伍（从电路板的设计，到3D外壳打造，再到软件代码编写）加入基地享受DIY的乐趣╭（′▽‵）╭（′▽‵）╭（′▽‵）╯。
+- ![QRcode](assets/scanner_20240904_225351-1.jpg){width=133px, align=left}
 
-    详细信息请查看：[启翔湖畔-招新贴](https://pd.qq.com/s/ct6mhyw6m?shareSource=5)
+    <name style="color:#54b4ef;font-size: clamp(0.8rem, 0.735rem + 1.03vw, 1.45rem);">:material-qqchat: 西工大舞蹈机器人基地</name>
 
-    点击加入QQ群：[舞基 2025 招新总群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9mDzoG_VrSHDSPWlmI35zFd13_Ye3W0M&authKey=m6zCBR1P%2Bne%2BGF7HOsPdy%2FbDcgVk6vhiAl3IYJXDFe2DIkeclC59HUzZUMqBNamt&noverify=0&group_code=970686200)
+    ---
+
+    舞蹈机器人基地QQ吉祥物，扫描加好友，获取招新信息。小舞在NPU等你(\*'▽'\*)♪
+
+</div>
 
 ## 项目展示
 
@@ -93,6 +107,7 @@ tags:
     [查看项目 :octicons-chevron-right-12:](https://github.com/team-explorer-rescue-robot){#right .md-button}
 
 </div>
+
 ## 成员博客
 
 <div class="grid cards" markdown>

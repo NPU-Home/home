@@ -156,3 +156,6 @@ nav:
         - page/文档/index.md
         - 家政组:
             - 机械臂文档: https://npu-home.github.io/arm/
+
+    - 招新信息:
+        - page/招新/index.md
