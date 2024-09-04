@@ -72,8 +72,7 @@ tags:
 
 <div class="grid cards" markdown>
 
-- ![pic](https://avatars.githubusercontent.com/u/171696651?s=400&u=088180d0e084b76aed5b496ac552db1edec7a5f3&v=4){#ico .no-zoom} <name>
-Home Team of NPU Dance Robot Base</name>
+- ![pic](https://avatars.githubusercontent.com/u/171696651?s=400&u=088180d0e084b76aed5b496ac552db1edec7a5f3&v=4){#ico .no-zoom} <name>Home Team of NPU Dance Robot Base</name>
 
     ---
 
@@ -83,15 +82,28 @@ Home Team of NPU Dance Robot Base</name>
 
 </div>
 
+<div class="grid cards" markdown>
+
+- ![pic](https://avatars.githubusercontent.com/u/18671466?s=200&v=4){#ico .no-zoom} <name>Team-Explorer-Rescue-Robot</name>
+
+    ---
+
+    西北工业大学舞蹈机器人基地救援组代码仓库。
+
+    [查看项目 :octicons-chevron-right-12:](https://github.com/team-explorer-rescue-robot){#right .md-button}
+
+</div>
 ## 成员博客
 
 <div class="grid cards" markdown>
 
+- ![Miao Yuyang](https://avatars.githubusercontent.com/u/4677346?v=4){#ico .no-zoom} <name>Miao Yuyang</name>
+
+    [myyerrol的个人网站](https://myyerrol.xyz/){#width .md-button}
+
 - ![RonaldLN](https://avatars.githubusercontent.com/u/120019179?v=4){#ico .no-zoom} <name>RonaldLNR</name>
 
     [MyPamphlet](https://ronaldln.github.io/MyPamphlet/){#width .md-button}
-
-    [MyPamphlet-Blog](https://ronaldln.github.io/MyPamphlet-Blog/){#width .md-button}
 
 - ![GaoZQi](https://avatars.githubusercontent.com/u/62362150?v=4){#ico .no-zoom} <name>GaoZQi</name>
 
