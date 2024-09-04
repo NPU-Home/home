@@ -10,6 +10,8 @@ comment: True
 
 !!! Tip "🎉西北工业大学舞蹈机器人基地2024届招新开始了！"
 
+    舞蹈机器人基地在参加的robocup和中国机器人大赛的部分项目中，是唯一自己完全打造机器人的队伍（从电路板的设计，到3D外壳打造，再到软件代码编写）加入基地享受DIY的乐趣╭（′▽‵）╭（′▽‵）╭（′▽‵）╯。
+
     详细信息请查看：[启翔湖畔-招新贴](https://pd.qq.com/s/ct6mhyw6m?shareSource=5)
 
     点击加入QQ群：[舞基 2025 招新总群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9mDzoG_VrSHDSPWlmI35zFd13_Ye3W0M&authKey=m6zCBR1P%2Bne%2BGF7HOsPdy%2FbDcgVk6vhiAl3IYJXDFe2DIkeclC59HUzZUMqBNamt&noverify=0&group_code=970686200)
@@ -37,6 +39,11 @@ comment: True
     介绍了基地软件组的学习思路，包括一门编程语言、Markdown、Git、面向对象的思想、良好的代码规范等。
 
     [查看学习思路 :octicons-chevron-right-12:](page/学习思路/软件组学习思路.md){#right .md-button}
+
+-   ### 机器人风采
+    收入了基地几个方向的机器人和比赛时的照片及视频。
+    [点我查看 :octicons-chevron-right-12:](page/比赛/舞蹈组.md){#right .md-button}
+
 
 </div>
 

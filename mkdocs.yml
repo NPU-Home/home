@@ -66,6 +66,14 @@ extra_javascript:
 
 plugins:
     - heti
+    - mkdocs-video:
+        is_video: False
+        video_muted: False
+        video_controls: True
+        css_style:
+            width: "100%"
+            height: "22.172vw"
+
     - search: {}
 
     - git-revision-date-localized:
@@ -85,6 +93,7 @@ markdown_extensions:
     - pymdownx.superfences # 内置标题栏
     - attr_list # 属性列表
     - md_in_html
+    - attr_list
 
     - toc: # 目录
           # permalink: "↗" # 目录链接
@@ -131,3 +140,10 @@ nav:
           - 机械组: page/方向/机械.md
     - 学习思路:
           - 软件学习: page/学习思路/软件组学习思路.md
+    - 机器人风采: 
+          - 舞蹈组: page/比赛/舞蹈组.md
+          - 救援组: page/比赛/救援组.md
+          - 家政组: page/比赛/家政组.md
+          - 篮球组: page/比赛/篮球组.md
+        
+
