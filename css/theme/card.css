@@ -16,6 +16,7 @@ name {
     font-size:1.45rem;
     font-weight: 700;
     color: var(--md-default-fg-color);
+    margin-left: 10px;
 }
 
 #width-pic {
