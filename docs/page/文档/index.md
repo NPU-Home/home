@@ -1,6 +1,9 @@
-# 文档库
+# 技术文档
 
-## 开发文档
+<div class="grid cards" markdown>
 
-[:material-arm-flex: 机械臂文档](https://npu-home.github.io/arm/){.md-button}
+-   ## 家政组
 
+    [:material-arm-flex: 机械臂文档](https://npu-home.github.io/arm/){#width .md-button}
+
+</div>

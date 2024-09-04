@@ -12,3 +12,7 @@
 .md-typeset :is(.emojione, .twemoji, .gemoji) {
     vertical-align: -0.15em;
 }
+
+.md-typeset img[align=left]{
+    margin: 0 1rem 0 0;
+}

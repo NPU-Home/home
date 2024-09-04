@@ -94,6 +94,7 @@ markdown_extensions:
     - attr_list # 属性列表
     - md_in_html
     - attr_list
+    - footnotes # 脚注
 
     - toc: # 目录
           # permalink: "↗" # 目录链接
@@ -153,4 +154,5 @@ nav:
 
     - 技术文档:
         - page/文档/index.md
-        - 机械臂: https://npu-home.github.io/arm/
+        - 家政组:
+            - 机械臂文档: https://npu-home.github.io/arm/
