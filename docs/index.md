@@ -115,11 +115,11 @@ tags:
 - ![Miao Yuyang](https://avatars.githubusercontent.com/u/4677346?v=4){#ico .no-zoom} <name>Miao Yuyang</name>
     <style>
     a.egg {
-        color: #3670ee;
+        color: rgba(0, 0, 0, 0);
         font-size: 1rem;
         vertical-align: inherit;
         margin: 10px 0 0 10px;
-        align: right;
+        transition: color 1s cubic-bezier(0, 1.16, 0.58, 1);
     }
     a.egg:hover,a.egg:focus {
         color: #3670ee;
