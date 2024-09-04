@@ -5,4 +5,5 @@
     width: 2.5rem;
     margin: .2rem;
     border: 2px solid var(--md-pic-shadow-color);
+    vertical-align: bottom;
 }

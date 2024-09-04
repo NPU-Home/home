@@ -4,6 +4,10 @@ hide:
     - footer
 title: 首页
 comment: True
+tags:
+    - HTML5
+    - JavaScript
+    - CSS
 ---
 
 # 西北工业大学舞蹈机器人基地
@@ -26,30 +30,43 @@ comment: True
 
     [查看介绍 :octicons-chevron-right-12:](page/项目组/index.md){#right .md-button}
 
--   ### 方向介绍
+-   ### 技术方向介绍
 
     介绍了基地各个技术组的基本要求和学习方向。包括软件组、电子组、机械组。
 
-    [软件组介绍 :octicons-chevron-right-12:](page/方向/软件.md){#width .md-button}
-    [电子组介绍 :octicons-chevron-right-12:](page/方向/电子.md){#width .md-button}
-    [机械组介绍 :octicons-chevron-right-12:](page/方向/机械.md){#width .md-button}
+    [软件组介绍](page/方向/软件.md){#width .md-button}
+    [电子组介绍](page/方向/电子.md){#width .md-button}
+    [机械组介绍](page/方向/机械.md){#width .md-button}
 
--   ### 学习思路
+-   ### 学习思路分享
 
     介绍了基地软件组的学习思路，包括一门编程语言、Markdown、Git、面向对象的思想、良好的代码规范等。
 
     [查看学习思路 :octicons-chevron-right-12:](page/学习思路/软件组学习思路.md){#right .md-button}
 
--   ### 机器人风采
-    收入了基地几个方向的机器人和比赛时的照片及视频。
-    [点我查看 :octicons-chevron-right-12:](page/比赛/舞蹈组.md){#right .md-button}
+-   ### 机器人档案
 
+    收入了基地几个方向的机器人和比赛时的照片及视频。
+    [查看图片 :octicons-chevron-right-12:](page/比赛/index.md){#right .md-button}
 
 </div>
 
-## 其他文档
+## 基地成员博客
 
-[:material-arm-flex: 机械臂文档](https://npu-home.github.io/arm/){.md-button}
+<div class="grid cards" markdown>
+
+- ![RonaldLN](https://avatars.githubusercontent.com/u/120019179?v=4){#ico .no-zoom} <name>RonaldLNR</name>
+
+    [MyPamphlet](https://ronaldln.github.io/MyPamphlet/){#width .md-button}
+
+    [MyPamphlet-Blog](https://ronaldln.github.io/MyPamphlet-Blog/){#width .md-button}
+
+- ![GaoZQi](https://avatars.githubusercontent.com/u/62362150?v=4){#ico .no-zoom} <name>GaoZQi</name>
+
+    [GaoZQi' Note](https://gaozqi.github.io/note/){#width .md-button}
+
+
+</div>
 
 ## 贡献
 
