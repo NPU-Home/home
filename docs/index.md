@@ -18,7 +18,7 @@ tags:
 
     点击加入QQ群：[舞基 2025 招新总群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9mDzoG_VrSHDSPWlmI35zFd13_Ye3W0M&authKey=m6zCBR1P%2Bne%2BGF7HOsPdy%2FbDcgVk6vhiAl3IYJXDFe2DIkeclC59HUzZUMqBNamt&noverify=0&group_code=970686200)
 
-    [查看招新信息 :octicons-chevron-right-12:](http://127.0.0.1:8000/home/page/%E6%8B%9B%E6%96%B0/){#right .md-button}
+    [查看招新信息 :octicons-chevron-right-12:](./page/招新/index.md){#right .md-button}
 
 # 西北工业大学舞蹈机器人基地
 
