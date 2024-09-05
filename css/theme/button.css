@@ -25,4 +25,10 @@
 
 #width {
     width: 100%;
+    padding: .625em 1em;
+}
+#width-lift {
+    width: 100%;
+    text-align: left;
+    padding: .625em 1em;
 }
