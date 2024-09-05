@@ -17,7 +17,6 @@
     transition: font-weight .25s, background-color .25s;
     text-align: center;
     box-shadow: 2px 3px 10px 2px var(--md-pic-shadow-color);
-    padding: .625em 1em
 }
 
 #right {
@@ -26,4 +25,10 @@
 
 #width {
     width: 100%;
+    padding: .625em 1em;
+}
+#width-lift {
+    width: 100%;
+    text-align: left;
+    padding: .625em 1em;
 }
