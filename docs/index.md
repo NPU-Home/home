@@ -138,7 +138,7 @@ tags:
         background: none;
     }
     </style>
-    <a class="egg" href="https://www.zhihu.com/question/363786870/answer/956180105" markdown>:simple-zhihu:{ title="你发现了彩蛋" }</a>
+    <a class="egg" href="https://www.zhihu.com/question/363786870/answer/956180105" markdown>:simple-zhihu:{ title="你发现了彩蛋🥚" }</a>
 
     [myyerrol的个人网站](https://myyerrol.xyz/){#width .md-button}
 
@@ -155,7 +155,7 @@ function display_alert()
 
 - ![xingE650](https://avatars.githubusercontent.com/u/24352308?v=4){#ico .no-zoom} <name>xingE650</name>
 
-    [Oppai>///<](https://xinge650.github.io/){#width .md-button onclick="display_alert()"}
+    [Oppai>///<](https://xinge650.github.io/){#width .md-button onclick="display_alert() "title="点一下看看😮"}
 
 - ![q1anchen](https://q1anchen.com/img/avatar.png){#ico .no-zoom} <name>q1anchen</name>
 
@@ -173,7 +173,7 @@ function display_alert()
 
     [GaoZQi' Note](https://gaozqi.github.io/note/){#width .md-button}
 
-- ![ico](https://img.picui.cn/free/2024/09/05/66d91b9c21423.bmp){#ico .no-zoom} <name onMouseOver="this.style.color='var(--md-default-fg-color)'" onMouseOut="this.style.color='rgba(0, 0, 0, 0)'"style="color: rgba(0, 0, 0, 0);transition: color 1s cubic-bezier(0, 1.16, 0.58, 1);">404 Not Found</name>
+- ![ico](https://img.picui.cn/free/2024/09/05/66d91b9c21423.bmp){#ico .no-zoom} <name onMouseOver="this.style.color='var(--md-default-fg-color)'" onMouseOut="this.style.color='rgba(0, 0, 0, 0)'"style="color: rgba(0, 0, 0, 0);transition: color 1s cubic-bezier(0, 1.16, 0.58, 1);"title="期待你的博客😶‍🌫️">404 Not Found</name>
 
     [添加友链](https://github.com/NPU-Home/home/discussions/2){#width .md-button}
 
