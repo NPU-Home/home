@@ -18,7 +18,7 @@ tags:
 
     点击加入QQ群：[舞基 2025 招新总群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9mDzoG_VrSHDSPWlmI35zFd13_Ye3W0M&authKey=m6zCBR1P%2Bne%2BGF7HOsPdy%2FbDcgVk6vhiAl3IYJXDFe2DIkeclC59HUzZUMqBNamt&noverify=0&group_code=970686200)
 
-    [查看招新信息 :octicons-chevron-right-12:](./page/招新/index.md){#right .md-button}
+    [查看招新信息 :octicons-chevron-right-12:](./page/招新/index.md){#right .md-button style="margin-bottom:.5rem"}
 
 # 西北工业大学舞蹈机器人基地
 
@@ -130,6 +130,10 @@ tags:
 
     [myyerrol的个人网站](https://myyerrol.xyz/){#width .md-button}
 
+- ![q1anchen](https://q1anchen.com/img/avatar.png){#ico .no-zoom} <name>q1anchen</name>
+
+    [q1anchen's blog](https://q1anchen.com/){#width .md-button}
+
 - ![climerecho](https://avatars.githubusercontent.com/u/81315777?v=4){#ico .no-zoom} <name>climerecho</name>
 
     [博客园](https://www.cnblogs.com/Roboduster){#width .md-button}
@@ -142,13 +146,17 @@ tags:
 
     [GaoZQi' Note](https://gaozqi.github.io/note/){#width .md-button}
 
+- ![ico](https://img.picui.cn/free/2024/09/05/66d91b9c21423.bmp){#ico .no-zoom} <name></name>
+
+    [添加友链](https://github.com/NPU-Home/home/discussions/2){#width .md-button}
+
 </div>
 
 ## 贡献
 
-[![GaoZQi](https://avatars.githubusercontent.com/u/62362150?v=4){#ico .no-zoom}](https://github.com/GaoZQi){#no-underline}
-[![qianfengXux](https://avatars.githubusercontent.com/u/150541161?v=4){#ico .no-zoom}](https://github.com/qianfengXux){#no-underline}
-[![RonaldLN](https://avatars.githubusercontent.com/u/120019179?v=4){#ico .no-zoom}](https://github.com/RonaldLN){#no-underline}
+[![GaoZQi](https://avatars.githubusercontent.com/u/62362150?v=4 "GaoZQi"){#ico .no-zoom}](https://github.com/GaoZQi){#no-underline}
+[![qianfengXux](https://avatars.githubusercontent.com/u/150541161?v=4 "qianfengXux"){#ico .no-zoom}](https://github.com/qianfengXux){#no-underline}
+[![RonaldLN](https://avatars.githubusercontent.com/u/120019179?v=4 "RonaldLN"){#ico .no-zoom}](https://github.com/RonaldLN){#no-underline}
 
 
 [^1]:摘抄自[舞蹈机器人创新实践基地简介舞蹈机器人创新实践基地简介-西北工业大学机电学院](https://jidian.nwpu.edu.cn/info/1112/2286.htm)

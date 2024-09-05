@@ -63,9 +63,12 @@ extra_css:
 extra_javascript:
     - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
     - js/zoom.js
+    - js/timeago.min.js
+    - js/timeago_mkdocs_material.js
 
 plugins:
-    - heti
+    - heti:
+        disable_serve: false
     - mkdocs-video:
           is_video: False
           video_muted: False
@@ -74,21 +77,19 @@ plugins:
               width: "100%"
               height: "22.172vw"
 
-    - search: {}
+    - search
 
     - git-revision-date-localized:
-          type: timeago
-          custom_format: "%d. %B %Y"
-          timezone: Asia/Shanghai
-          locale: zh
-          fallback_to_build_date: false
-          enable_creation_date: true
+        type: timeago
+        timezone: Asia/Shanghai
+        locale: zh
+        enable_creation_date: true
 
 markdown_extensions:
     - abbr # 缩写
     - pymdownx.snippets # 代码块
     - pymdownx.highlight: # 代码高亮
-          anchor_linenums: true # 代码行号
+            anchor_linenums: true # 代码行号
     - pymdownx.inlinehilite # 行内代码高亮
     - pymdownx.superfences # 内置标题栏
     - attr_list # 属性列表
@@ -128,11 +129,8 @@ markdown_extensions:
     - pymdownx.arithmatex: # 数学公式
           generic: true # 通用
     - pymdownx.emoji: # emoji
-          emoji_index:
-              !!python/name:material.extensions.emoji.twemoji # emoji索引
-
-
-          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+            emoji_index: !!python/name:material.extensions.emoji.twemoji # emoji索引
+            emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
     - index.md

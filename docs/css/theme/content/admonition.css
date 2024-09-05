@@ -1,6 +1,5 @@
 .md-typeset .admonition,
 .md-typeset details {
-  padding: 0 .6rem .6rem .6rem;
   background-color: var(--md-code-bg-color);
   border: 2px solid #448aff;
   border-radius: 8px;
