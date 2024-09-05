@@ -98,6 +98,18 @@ tags:
 
 <div class="grid cards" markdown>
 
+- ![pic](https://avatars.githubusercontent.com/u/15942393?s=200&v=4){#ico .no-zoom} <name>Team Xmbot Service Robot</name>
+
+    ---
+
+    西北工业大学舞蹈机器人基地家政机器人——晓萌（xmbot）历史代码库。
+
+    [查看项目 :octicons-chevron-right-12:](https://github.com/xm-project){#right .md-button}
+
+</div>
+
+<div class="grid cards" markdown>
+
 - ![pic](https://avatars.githubusercontent.com/u/18671466?s=200&v=4){#ico .no-zoom} <name>Team-Explorer-Rescue-Robot</name>
 
     ---
@@ -130,6 +142,21 @@ tags:
 
     [myyerrol的个人网站](https://myyerrol.xyz/){#width .md-button}
 
+- ![JiaoYanMoGu](https://avatars.githubusercontent.com/u/14070120?v=4){#ico .no-zoom} <name>JiaoYanMoGu</name>
+
+    [博客园](https://www.cnblogs.com/jymg){#width .md-button}
+
+<script type="text/javascript">
+function display_alert()
+    {
+    alert("be helpful to you(๑•̀ㅂ•́)و✧")
+    }
+</script>
+
+- ![xingE650](https://avatars.githubusercontent.com/u/24352308?v=4){#ico .no-zoom} <name>xingE650</name>
+
+    [Oppai>///<](https://xinge650.github.io/){#width .md-button onclick="display_alert()"}
+
 - ![q1anchen](https://q1anchen.com/img/avatar.png){#ico .no-zoom} <name>q1anchen</name>
 
     [q1anchen's blog](https://q1anchen.com/){#width .md-button}
@@ -146,7 +173,7 @@ tags:
 
     [GaoZQi' Note](https://gaozqi.github.io/note/){#width .md-button}
 
-- ![ico](https://img.picui.cn/free/2024/09/05/66d91b9c21423.bmp){#ico .no-zoom} <name></name>
+- ![ico](https://img.picui.cn/free/2024/09/05/66d91b9c21423.bmp){#ico .no-zoom} <name onMouseOver="this.style.color='var(--md-default-fg-color)'" onMouseOut="this.style.color='rgba(0, 0, 0, 0)'"style="color: rgba(0, 0, 0, 0);transition: color 1s cubic-bezier(0, 1.16, 0.58, 1);">404 Not Found</name>
 
     [添加友链](https://github.com/NPU-Home/home/discussions/2){#width .md-button}
 
