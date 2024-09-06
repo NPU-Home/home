@@ -165,6 +165,10 @@ function display_alert()
 
     [博客园](https://www.cnblogs.com/Roboduster){#width .md-button}
 
+- ![YangMY](https://avatars.githubusercontent.com/u/125655203?v=4){#ico .no-zoom} <name>Yang Mingyuan</name>
+
+    [YangMY 的个人笔记本](https://peterjeremiah.github.io/NoteBook/){#width .md-button}
+
 - ![RonaldLN](https://avatars.githubusercontent.com/u/120019179?v=4){#ico .no-zoom} <name>RonaldLN</name>
 
     [MyPamphlet](https://ronaldln.github.io/MyPamphlet/){#width .md-button}
