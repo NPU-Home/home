@@ -1,0 +1,3 @@
+[submodule "docs/material-mkdocs-theme"]
+	path = docs/material-mkdocs-theme
+	url = git@github.com:GaoZQi/material-mkdocs-theme.git

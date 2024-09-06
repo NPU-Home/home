@@ -32,39 +32,11 @@ theme:
     custom_dir: docs/resources
 
 extra_css:
-    - css/theme/global/fonts.css
-    - css/theme/global/scheme.css
-    - css/theme/global/img.css
-
-    - css/theme/content/admonition.css
-    - css/theme/content/markdown.css
-
-    - css/theme/head/search.css
-    - css/theme/head/git.css
-    - css/theme/head/tab.css
-    - css/theme/head/header.css
-
-    - css/theme/foot/footer.css
-    - css/theme/nav.css
-    - css/theme/top.css
-    - css/theme/link.css
-    - css/theme/card.css
-    - css/theme/button.css
-    - css/theme/ico.css
-
-    - css/img-zoom/zoom.css
-
-    - css/enc/input.css
-    - css/enc/button.css
-    - css/enc/msg.css
-
-    - css/giscus/giscus.css
+    - material-mkdocs-theme/css/import.css
 
 extra_javascript:
     - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-    - js/zoom.js
-    - js/timeago.min.js
-    - js/timeago_mkdocs_material.js
+    - material-mkdocs-theme/js/zoom.js
 
 plugins:
     - heti:
