@@ -2,23 +2,18 @@
     font-size: .8rem;
     height: 2rem;
     width: 100%;
-    max-width: 70%;
-
+    max-width: 80%;
     padding: 0.6rem;
-
-    border: none;
+    border: 2px solid var(--md-pic-shadow-color);
     border-radius: 8px;
-
-    box-shadow: inset 0px 0px 20px 20px var(--md-code-bg-color);
-
-    background: linear-gradient(to right, var(--md-link-color), var(--md-link-color)) right bottom no-repeat;
-    background-size: 0px 2px;
-
+    background: var(--md-primary-fg-color);
+    box-shadow: inset 0px 0px 7px 0px var(--md-pic-shadow-color);
     transition: background-size 0.5s cubic-bezier(0.87, 0.29, 0.14, 0.61) 0s, box-shadow 0.5s ease-in-out 0s;
 }
 
 #mkdocs-content-password:hover,
 #mkdocs-content-password:focus {
+    /* border: none; */
     background-position: left bottom;
     background-size: 100% 2px;
     box-shadow: inset 0px 0px 20px 20px var(--md-pic-shadow-color);
