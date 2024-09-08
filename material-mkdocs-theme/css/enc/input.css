@@ -8,13 +8,13 @@
     border-radius: 8px;
     background: var(--md-primary-fg-color);
     box-shadow: inset 0px 0px 7px 0px var(--md-pic-shadow-color);
-    transition: background-size 0.5s cubic-bezier(0.87, 0.29, 0.14, 0.61) 0s, box-shadow 0.5s ease-in-out 0s;
+    /* transition: background-size 0.5s cubic-bezier(0.87, 0.29, 0.14, 0.61) 0s, box-shadow 0.5s ease-in-out 0s; */
+    transition: font-weight .25s;
 }
 
-#mkdocs-content-password:hover,
+#mkdocs-content-password:hover{
+    font-weight: 800;
+}
 #mkdocs-content-password:focus {
-    /* border: none; */
-    background-position: left bottom;
-    background-size: 100% 2px;
     box-shadow: inset 0px 0px 20px 20px var(--md-pic-shadow-color);
 }

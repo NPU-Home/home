@@ -40,3 +40,17 @@ name {
     position: relative;
     max-width: 100%;
 }
+
+.card{
+    background-color: var(--md-primary-fg-color);
+    border-radius: 8px;
+    border: 2px solid var(--md-pic-shadow-color);
+    display: block;
+    margin: 0;
+    padding: .8rem;
+    transition: border .25s,box-shadow .25s;
+}
+.card:hover{
+    border: 2px solid var(--md-primary-fg-color);
+    box-shadow: var(--md-shadow-z2)
+}
